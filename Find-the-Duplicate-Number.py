@@ -10,4 +10,3 @@
 10                    slow = nums[slow]
 11                    fast = nums[fast]
 12                return fast
-13        
